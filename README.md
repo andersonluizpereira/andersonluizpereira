@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome bro 👋
 
-<!--
-**andersonluizpereira/andersonluizpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here something about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [DASA](https://dasa.com.br/).
+- 📚 Techno books
+- ☕️ Coffe lover
+- 🏋🏽‍♂️ Bodybuilder amateur
+- 🥋 Jiu-jítsu amateur
+- 👨‍👩‍👧‍👦 married @renatascarlucci
+- 🐱🐱 Loved 🐈
+- 💪 I’m specialist in .NET/NodeJS, Architecture and Cloud Native Apps
+- 💬 Ask me about: Development :)
+- ⚡ Check my repos specially [Smart Point](https://github.com/andersonluizpereira/ponto-inteligente), [Micro Services .Net Core](https://github.com/andersonluizpereira/NanyAspNetCore) and [Clean Architecture TypeScript](https://github.com/andersonluizpereira/clean-architecture-nodets)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me on my social networks:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersonluizpereira)](https://github.com/andersonluizpereira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-luiz-sanches-carlucci-pereira-b792b130/)](https://www.linkedin.com/in/anderson-luiz-sanches-carlucci-pereira-b792b130/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AndersonLuizPe3)](https://twitter.com/AndersonLuizPe3)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/andersononus/)](https://www.instagram.com/andersononus/)
