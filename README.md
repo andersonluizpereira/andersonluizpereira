@@ -18,3 +18,6 @@ Follow me on my social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-luiz-sanches-carlucci-pereira-b792b130/)](https://www.linkedin.com/in/anderson-luiz-sanches-carlucci-pereira-b792b130/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AndersonLuizPe3)](https://twitter.com/AndersonLuizPe3)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/andersononus/)](https://www.instagram.com/andersononus/)
+
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=andersonluizpereira&show_icons=true" alt="andersonluizpereira" /> </p>
