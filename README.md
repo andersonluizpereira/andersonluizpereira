@@ -21,4 +21,4 @@ Follow me on my social networks:
 
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=andersonluizpereira&show_icons=true" alt="andersonluizpereira" /> </p>
-<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonluizpereira&langs_count=5" alt="andersonluizpereira" /> </p>
+<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonluizpereira&langs_count=10" alt="andersonluizpereira" /> </p>
