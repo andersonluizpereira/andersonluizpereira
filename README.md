@@ -1,5 +1,7 @@
 # Welcome bro 👋
 
+<img src="https://komarev.com/ghpvc/?username=andersonluizpereira" alt="andersonluizpereira" />
+
 ### Here something about me:
 
 - 🔭 I’m currently working on [BRAZIL_PREV](https://www1.brasilprev.com.br/).
