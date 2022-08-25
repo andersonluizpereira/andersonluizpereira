@@ -8,8 +8,6 @@
 - 💪 I’m specialist in .NET/NodeJS, Architecture and Cloud Native Apps
 - 📚 Techno books
 - ☕️ Coffe lover
-- 🏋🏽‍♂️ Bodybuilder amateur
-- 🥋 Jiu-jítsu amateur
 - 🐱🐱 Loved 🐈
 - 💬 Ask me about: Development :)
 - ⚡ Check my repos specially [Smart Point](https://github.com/andersonluizpereira/ponto-inteligente), [Micro Services .Net Core](https://github.com/andersonluizpereira/NanyAspNetCore) and [Clean Architecture TypeScript](https://github.com/andersonluizpereira/clean-architecture-nodets)
